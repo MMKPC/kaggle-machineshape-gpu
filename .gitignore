@@ -1,0 +1,11 @@
+# never commit credentials
+kaggle.json
+.env
+*.pem
+*.key
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
